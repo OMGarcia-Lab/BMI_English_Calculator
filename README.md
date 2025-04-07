@@ -9,7 +9,7 @@ javac BMI_English_Calculator.java
 java BMI_English_Calculator
 
 ## Topics Covered
-- BMI Formula (imperial units)  
+- BMI Formula (Imperial Units)  
 - Arithmetic Operations  
 - Health Categorization  
 - User Input and String Formatting
